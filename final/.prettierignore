@@ -1,0 +1,8 @@
+dist
+.meteor
+node_modules
+*.lock
+coverage
+_build
+*/build-assets
+*/build-chunks
