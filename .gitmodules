@@ -1,0 +1,20 @@
+[submodule "pulse"]
+	path = pulse
+	url = https://github.com/mieweb/pulse.git
+	branch = main
+[submodule "timeharbor"]
+	path = timeharbor
+	url = https://github.com/mieweb/timeharbor.git
+	branch = main
+[submodule "TimeharborApp"]
+	path = TimeharborApp
+	url = https://github.com/Dharp02/TimeharborApp.git
+	branch = main
+[submodule "ui"]
+	path = ui
+	url = https://github.com/mieweb/ui.git
+	branch = main
+[submodule "meteor-starter"]
+	path = meteor-starter
+	url = https://github.com/wreiske/meteor-react-tailwind-prettier-starter.git
+	branch = main
